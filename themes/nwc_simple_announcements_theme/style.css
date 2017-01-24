@@ -1,0 +1,23 @@
+/*
+Theme Name: Twenty Sixteen + Simple Announcements
+Description: Twenty Sixteen theme with support for Simple Announcements
+Author: Natalie Mueller
+Template: twentysixteen
+Version: 0.1
+Text Domain: twenty-sixteen-child
+*/
+
+/* Simple styles to set our announcements apart from regular posts */
+.announcement {
+    background-color: #fff699;
+    border-color: #ffec26;
+    border-style: solid;
+    border-size: 1pt;
+    padding: 2pt;
+}
+
+/* Set the dashicon size to the same size as the rest of the title */
+.announcement-dashicons {
+    font-size: 100%;
+    display: inline;
+}
